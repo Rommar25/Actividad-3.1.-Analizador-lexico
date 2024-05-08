@@ -1,1 +1,1 @@
-# Actividad-3.1.-Analizador-l-xico
+# Actividad-3.1.-Analizador-lexico
